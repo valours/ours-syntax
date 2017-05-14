@@ -1,6 +1,6 @@
 # Ours SYNTAX theme
 
-## My UI theme
+## My SYNTAX theme
 
 A short description of your theme.
 
